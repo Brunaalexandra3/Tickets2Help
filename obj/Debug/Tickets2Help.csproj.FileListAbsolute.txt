@@ -1,0 +1,8 @@
+C:\Users\bruna\OneDrive\Ambiente de Trabalho\Faculdade\2º ano\2º semestre\PA\Tickets2Help\Tickets2Help\obj\Debug\Tickets2Help.csproj.AssemblyReference.cache
+C:\Users\bruna\OneDrive\Ambiente de Trabalho\Faculdade\2º ano\2º semestre\PA\Tickets2Help\Tickets2Help\obj\Debug\Tickets2Help.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruna\OneDrive\Ambiente de Trabalho\Faculdade\2º ano\2º semestre\PA\Tickets2Help\Tickets2Help\obj\Debug\Login.g.cs
+C:\Users\bruna\OneDrive\Ambiente de Trabalho\Faculdade\2º ano\2º semestre\PA\Tickets2Help\Tickets2Help\obj\Debug\Register.g.cs
+C:\Users\bruna\OneDrive\Ambiente de Trabalho\Faculdade\2º ano\2º semestre\PA\Tickets2Help\Tickets2Help\obj\Debug\Tickets2Help.g.cs
+C:\Users\bruna\OneDrive\Ambiente de Trabalho\Faculdade\2º ano\2º semestre\PA\Tickets2Help\Tickets2Help\obj\Debug\App.g.cs
+C:\Users\bruna\OneDrive\Ambiente de Trabalho\Faculdade\2º ano\2º semestre\PA\Tickets2Help\Tickets2Help\obj\Debug\Tickets2Help_MarkupCompile.cache
+C:\Users\bruna\OneDrive\Ambiente de Trabalho\Faculdade\2º ano\2º semestre\PA\Tickets2Help\Tickets2Help\obj\Debug\Tickets2Help_MarkupCompile.lref

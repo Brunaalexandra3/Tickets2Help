@@ -1,0 +1,23 @@
+﻿<Window x:Class="Tickets2Help.Register"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tickets2Help"
+        mc:Ignorable="d"
+        Title="Register" Height="450" Width="800">
+    <Grid Background="#FFE8D4D0">
+        <Label x:Name="lbl_register" Content="Register" HorizontalAlignment="Center" Margin="0,65,0,0" VerticalAlignment="Top" FontSize="48" FontFamily="Bernard MT Condensed"/>
+        <TextBox x:Name="txt_name" TextWrapping="Wrap" Margin="366,170,204,235"/>
+        <TextBox x:Name="txt_password" TextWrapping="Wrap" Margin="366,217,204,188"/>
+        <Label x:Name="lbl_name" Content="Name:" HorizontalAlignment="Left" Margin="203,170,0,0" VerticalAlignment="Top" Width="80" FontSize="20" FontFamily="Bernard MT Condensed"/>
+        <Label x:Name="lbl_password" Content="Password:" HorizontalAlignment="Left" Margin="203,215,0,0" VerticalAlignment="Top" Width="100" FontSize="20" FontFamily="Bernard MT Condensed"/>
+        <ComboBox Name="RoleComboBox" HorizontalAlignment="Left" Margin="366,271,0,0" VerticalAlignment="Top" Width="230" Height="28">
+            <ComboBoxItem Content="User"/>
+            <ComboBoxItem Content="Technician"/>
+        </ComboBox>
+        <Button x:Name="btn_register" Content="Register" HorizontalAlignment="Left" Margin="203,357,0,0" VerticalAlignment="Top" Height="46" Width="153" Background="#FFFDE1B3" FontFamily="Bernard MT Condensed" FontSize="20" Click="btn_register_Click"/>
+        <Button x:Name="btn_exit" Content="Exit" HorizontalAlignment="Left" Margin="443,357,0,0" VerticalAlignment="Top" Height="46" Width="153" Background="#FFFDE1B3" FontSize="20" FontFamily="Bernard MT Condensed" Click="btn_exit_Click"/>
+        <Label x:Name="lbl_role" Content="Role:" HorizontalAlignment="Left" Margin="203,265,0,0" VerticalAlignment="Top" Width="100" FontSize="20" FontFamily="Bernard MT Condensed"/>
+    </Grid>
+</Window>

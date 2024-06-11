@@ -1,0 +1,9 @@
+﻿<Application x:Class="Tickets2Help.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Tickets2Help"
+             StartupUri="Tickets2Help.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
